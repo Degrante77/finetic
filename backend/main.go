@@ -7,8 +7,8 @@ import (
 
     "github.com/gin-gonic/gin"
     "github.com/joho/godotenv"
-    "yourmodule/config"
-    "yourmodule/routes"
+    "github.com/Degrante77/finetic/config"
+    "github.com/Degrante77/finetic/routes"
 )
 
 func main() {
