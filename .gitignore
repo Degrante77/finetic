@@ -2,3 +2,6 @@ backend/.env
 .gitignore
 .env
 
+.idea/finetic.iml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
